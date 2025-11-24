@@ -1,0 +1,2 @@
+# wiseminds
+Wise Minds Academy
